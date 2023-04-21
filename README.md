@@ -4,7 +4,8 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I won't stop working on a task till completion 😢
 - 💬 Ask me anything
-- 📫 How to reach me: nandorgallo@gmail.com
+
+#### Reach me through my linkedin
 
 ### Skills
  <img src='https://img.shields.io/badge/-React-41DBFB'> <img src='https://img.shields.io/badge/-Vue-41b883'> <img src='https://img.shields.io/badge/-HTML-blue'> <img src='https://img.shields.io/badge/-CSS-brightgreen'> <img src='https://img.shields.io/badge/-JavaScript-orange'> <img src='https://img.shields.io/badge/-Python-success'> <img src='https://img.shields.io/badge/-Java-F8981D'> <img src='https://img.shields.io/badge/-Cloud Platforms-270065'> <img src='https://img.shields.io/badge/-C++-00599C'> 
