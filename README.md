@@ -1,4 +1,4 @@
-### Hi there 👋 my name is Nandor welcome to my github
+### Hi there 👋 My Name is Nandor Welcome to my github!
 
 - 🔭 I’m currently working on getting rank #1 on HackerRank
 - 😄 Pronouns: He/Him
