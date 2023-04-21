@@ -6,6 +6,7 @@
 - 💬 Ask me anything
 
 ![Nandor's Github Stats](https://github-readme-stats.vercel.app/api?username=nandor-gallo&show_icons=true&theme=tokyonight)
+
 ![Nandor's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nandor-gallo&theme=blue-green)
 
 ### Skills
