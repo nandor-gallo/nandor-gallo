@@ -1,8 +1,8 @@
 ### Hi there 👋 My Name is Nandor Welcome to my github!
 
-- 🔭 I’m currently working on getting rank #1 on HackerRank
+- 🔭 I’m currently learning Scrapy python
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I won't stop working on a task till completion 😢
+- ⚡ Fun fact: I love playing volleyball
 - 💬 Ask me anything
 
 ![Nandor's Github Stats](https://github-readme-stats.vercel.app/api?username=nandor-gallo&show_icons=true&theme=tokyonight)
