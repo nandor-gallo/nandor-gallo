@@ -15,5 +15,5 @@
 ### Contact Me
 <a href="https://www.linkedin.com/in/nandor-gallo-82a168145/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
-# Check out my website! [Here](nandor-gallo.com)
+# Check out my website! [Here](www.nandor-gallo.com)
 ## 📫 nandorgallo@gmail.com
