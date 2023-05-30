@@ -1,7 +1,5 @@
 ### Hi there 👋 My Name is Nandor Welcome to my github!
 
-# Check out my website! [Here](https://nandor-gallo.com/)
-
 - 🔭 I’m currently learning Scrapy python
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love playing volleyball
